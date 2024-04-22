@@ -1,5 +1,5 @@
 ---
-title: Chishasnoclue Mod Service Record
+title:
 ---
 ---
 Chrishasnoclue became a moderator on November 27, 2023, at the rank of Secret Service of the Pixel Patriots. Took part in hosting many events, having created our only community-run event before. Contributed to AFIP Gaming Clan popularity and the Mock Elections. Worked substantially to change moderation practices and improve quality of debate in political section.

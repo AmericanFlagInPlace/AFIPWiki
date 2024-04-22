@@ -1,5 +1,5 @@
 ---
-title: PancakeKing Mod Service Record
+title: 
 tags:
   - Active
   - General

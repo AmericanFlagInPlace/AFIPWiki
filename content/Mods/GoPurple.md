@@ -1,5 +1,5 @@
 ---
-title: Go Puprle Mod Service Record
+title: 
 tags:
   - Active
   - General

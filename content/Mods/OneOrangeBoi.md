@@ -1,5 +1,5 @@
 ---
-title: OneOrangeBoi Mod Service Record
+title: 
 tags:
   - "#Active"
   - "#SecretService"
