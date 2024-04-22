@@ -10,11 +10,11 @@ tags: []
 > ### Position 
 > | Status: | Rank:  |
 > | --- |--- |
-> | # Active or # Resigned | # role |
+> | #Resigned | # role |
 > ### Period of Service
 > | Inducted | Resigned|
 > | --- |--- |
-> | February 31 1700 | February 31 1700 or Present |
+> | February 31 1700 |February 31 1700|
 >  ### Aliases 
 > | Username | Nicknames |
 > | --- |--- |
