@@ -14,7 +14,7 @@ tags:
 > ### Period of Service
 > | Inducted | Resigned|
 > | --- |--- |
-> | April 2nd 2022 | Present |
+> | April 2nd 2022 ||
 >  ### Aliases 
 > | Username | Nicknames |
 > | --- |--- |
