@@ -11,4 +11,8 @@ aliases:
 
 This article explains the *Set up* process to start contributing. To view the style guide please read: [[Style Guide]]. 
 
-There are three main tools that are used
+There are three main tools that are used: [Git](https://git-scm.com/download), [Github Desktop](https://desktop.github.com/), and [Obsidian](https://obsidian.md/).
+
+Once all three applications installed we can get started. 
+
+1. Create a file 

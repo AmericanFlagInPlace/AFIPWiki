@@ -1,5 +1,5 @@
 ---
-tags:
+tags: []
 ---
 > [!infobox]
 > 
@@ -10,11 +10,17 @@ tags:
 > ### Position 
 > | Status: | Rank:  |
 > | --- |--- |
-> | `` #active or #Resigned`` | ``#role`` |
+> | # Active or # Resigned | # role |
 > ### Period of Service
 > | Inducted | Resigned|
 > | --- |--- |
-> | ``Inducted date`` | ``Resigned date if none use "Present"`` |
+> | February 31 1700 | February 31 1700 or Present |
+>  ### Aliases 
+> | Username | Nicknames |
+> | --- |--- |
+> | @name or name#0000 | your mom |
+> || your dad|
+
 
 
 # About
@@ -24,7 +30,7 @@ WIP (Add to me!)
 WIP (Add to me!)
 
 ---
-#  ``Username`` Mod Service Record
+#  USERNAME Mod Service Record
 
 ## February 31, 1700 - Record entry
 CHANGE ME CHANGE ME CHANGE ME CHANGE ME CHANGE ME CHANGE ME CHANGE ME CHANGE ME CHANGE ME CHANGE ME CHANGE ME CHANGE ME CHANGE ME CHANGE ME CHANGE ME CHANGE ME CHANGE ME CHANGE ME 

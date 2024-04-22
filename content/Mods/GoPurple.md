@@ -18,6 +18,11 @@ tags:
 > | Inducted | Resigned|
 > | --- |--- |
 > |February 21, 2024| Present (Phase IV)|
+>  ### Aliases 
+> | Username | Nicknames |
+> | --- |--- |
+> |  @GoPurple |  |
+
 
 # About
 n/a
