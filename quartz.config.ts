@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🇺🇸 The America Flag in Place Wiki",
+    pageTitle: "The America Flag in Place Wiki",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
