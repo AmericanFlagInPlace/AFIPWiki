@@ -1,0 +1,51 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "tag:#General  ",
+      "color": {
+        "a": 1,
+        "rgb": 1331987
+      }
+    },
+    {
+      "query": "tag:#Representative  ",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    },
+    {
+      "query": "tag:#SecretService  ",
+      "color": {
+        "a": 1,
+        "rgb": 5395026
+      }
+    },
+    {
+      "query": "tag:#Active  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084188
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.31214753848498666,
+  "close": true
+}

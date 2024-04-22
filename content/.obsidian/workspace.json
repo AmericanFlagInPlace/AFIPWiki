@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "1e7457a1b26cb60d",
+    "type": "split",
+    "children": [
+      {
+        "id": "772716d11bf71ac8",
+        "type": "tabs",
+        "dimension": 65.6725888324873,
+        "children": [
+          {
+            "id": "4bbd5689d7d67a21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mods/GoPurple.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "c6bec3313e81094f",
+        "type": "tabs",
+        "dimension": 34.327411167512686,
+        "children": [
+          {
+            "id": "ef6c4c002f948e8b",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "028dbcd0a0306a2a",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a4c45d9967eb28e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "feb8b11c0c55aa40",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "565f0222b8623bbc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Resigned",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "88e4a1bee2addc9f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c850b1740f7f70de",
+    "type": "split",
+    "children": [
+      {
+        "id": "c77ed8ad256bf15d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff8ae3ae65077f4b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Mods/GoPurple.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0622b2871961a394",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Mods/GoPurple.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "243b8e4a7b00e5b2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7bac11d3437e683a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Mods/GoPurple.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "4bbd5689d7d67a21",
+  "lastOpenFiles": [
+    "Templates/mod template.md",
+    "media/GoPurpleAvatar.jpg",
+    "TODO.md",
+    "media/NoPFP.png",
+    "Technical Details.md",
+    "index.md",
+    "Conurbation Guide.md",
+    "AFIP History.md",
+    "Mod template.md",
+    "Mods/GoPurple.md",
+    "Mods/LiamtheNinja5.md",
+    "Pasted image 20240421230050.png",
+    "media/LiamTheNinja5Avatar.jpg",
+    "Pasted image 20240421225857.png",
+    "Mods/TheMatsValk.md",
+    "Mods/TheGlutenFreeExperience.md",
+    "media",
+    "Mods/1Blaster77.md",
+    "Mods/Acinonyx.md",
+    "Mods/AldumGames.md",
+    "Mods/America_CW.md",
+    "Mods/Brayden.md",
+    "Mods/Charlemagne.md",
+    "Mods/Chrishasnoclue.md",
+    "Mods/Cosmik.md",
+    "Mods/Cover.md",
+    "Mods/CyberedCake.md",
+    "Mods/Deadeye.md",
+    "Mods/Dream.md",
+    "Mods/Dynamic.md",
+    "Mods/Earth.md",
+    "Templates",
+    "Mods",
+    "Templates"
+  ]
+}
