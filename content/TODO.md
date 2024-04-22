@@ -1,3 +1,4 @@
 - Get a discord bot it interface with the repo
 - Make the branches read protected
 - Create a dev branch and have all commits go to there
+- Standardize mod pages
