@@ -4,12 +4,29 @@ tags:
   - Active
   - General
 ---
----
+> [!infobox]
+> 
+> ## Profile picture
+> 
+> ![[GoPurpleAvatar.jpg]]
+> 
+> ### Position 
+> | Status: | Rank:  |
+> | --- |--- |
+> | #Active| #General |
+> ### Period of Service
+> | Inducted | Resigned|
+> | --- |--- |
+> |February 21, 2024| Present (Phase IV)|
+
+# About
+n/a
+
+# History
 GoPurple became a moderator on February 21, 2024, at the rank of Secret Service of the Pixel Patriots. Took part in improving server events with such ideas as March Madness streams in March 2024.
 
-**Period of Service:** February 21, 2024 - Present (Phase IV) 
-
 ---
+
 # Go Puprle Mod Service Record
 
 ## February 21, 2024 - Inducted as a Moderator

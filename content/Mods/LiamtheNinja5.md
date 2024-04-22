@@ -1,10 +1,12 @@
 > [!infobox]
 > 
-> ## User avatar
+> ## Profile picture
 > 
-> %%![[LiamtheNinja5]]%%
+> ![[LiamTheNinja5Avatar.jpg]]
 > 
-> ### User name
-> | @LiamTheNinja5 |
+> ### Status & Rank
+> |  |  |
+> | --- | --- |
+> | Status | #Active  |
+> | Rank | #Representative|
 
-test page
