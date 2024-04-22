@@ -1,13 +1,10 @@
 > [!infobox]
 > 
-> ## @Liamtheninja5 
+> ## User avatar
 > 
-> %%![[https://cdn.discordapp.com/avatars/541637287075774515/a05913ed5ebf829e3ba115a9e2236beb.webp?size=4096]]%%
+> %%![[LiamtheNinja5]]%%
 > 
-> ### Table Heading
-> 
-> | Type | Name |
-> | --- | --- |
-> | Row | Row |
-> | Row | Row |
+> ### User name
+> | @LiamTheNinja5 |
 
+test page
