@@ -1,4 +1,18 @@
-- Get a discord bot it interface with the repo
-- Make the branches read protected
-- Create a dev branch and have all commits go to there
-- Standardize mod pages
+- [ ] Get a discord bot it interface with the repo
+- [ ] Standardize mod pages
+- [ ] Create Style Guide
+- [ ] Finish editing guide
+- [ ] Page for Ranks
+- [ ] Mock election page
+- [ ] page for Mr. Truman Smith
+- [ ] information removal form
+- [ ] Rules page (can explain in more deal)
+
+
+# Long Term
+- [ ] AFIP history page
+	- [ ] 
+
+- [ ] Mock election page
+	- [ ] page for each party
+	- [ ] list all winners

@@ -10,9 +10,9 @@ tags: []
 > ### Position 
 > | Status: | Rank:  |
 > | --- |--- |
-> | #Resigned | # role |
+> | #Retired  | # role |
 > ### Period of Service
-> | Inducted | Resigned|
+> | Inducted | retired|
 > | --- |--- |
 > | February 31 1700 |February 31 1700|
 >  ### Aliases 

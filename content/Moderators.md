@@ -11,7 +11,7 @@ Through the history of American Flag in Place, many moderators have come and gon
 - [[TheGingaNinja]]
 - [[Acinonyx]]
 - [[Rainsford]]
-- [[GitNuked]]
+- [[Gitnuked]]
 - [[Keel]]
 - [[TheMatsValk]]
 - [[Glozzom]]

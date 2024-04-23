@@ -10,7 +10,7 @@ tags:
 > ### Position 
 > | Status: | Rank:  |
 > | --- |--- |
-> | #Resigned | #FroundingFather |
+> | #Retired  | #FroundingFather |
 > ### Period of Service
 > | Inducted | Resigned|
 > | --- |--- |
