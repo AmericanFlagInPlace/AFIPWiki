@@ -16,7 +16,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "wiki.afip.us",
-    ignorePatterns: ["private", "Templates", ".obsidian"],
+    ignorePatterns: ["private", "Templates", ".obsidian","Templates/*"],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
