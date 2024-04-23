@@ -5,6 +5,7 @@ tags:
 aliases:
   - How to edit
   - editing guide
+  - adding to the wiki
 ---
 ---
 > [!warning] At this point in time editing this wiki is complicated and can take some technical know how. if you want to make a quick edit, or maybe just add something small fell free to dm [[LiamtheNinja5]] 
@@ -32,4 +33,8 @@ To learn more about Obsidian [Click Here](https://help.obsidian.md/Home).
 
 ## Publishing
 1. to publish use Github Desktop to create a Comment. ![[PublishingGuideGithubDesktopSummary.png]]
-2. 
+2. Than push to origin ![[PublishingGuidePush.png]]
+3. now create a pull request! You are done
+The pull request will be reviewed and if all is good it will be accepted! 
+
+Thank you for your help on this wiki.
