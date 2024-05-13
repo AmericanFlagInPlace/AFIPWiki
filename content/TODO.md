@@ -18,8 +18,18 @@
 
 # Long Term
 - [ ] AFIP history page
-	- [ ] 
+	- [ ] 2017-2022
+		- [ ] r/place
+		- [ ] down time
+		- [ ] ???? (Idk what happend)
+	- [ ] 2022-2023
+		- [ ] r/place 2
+		- [ ] down time
+	- [ ] 2023-present
+		- [ ] r/place 3
+		- [ ] pixel canvas
+	- [ ] All Presidents 
+	- [ ] Mock election page
+		- [ ] page for each party
+		- [ ] list all winners
 
-- [ ] Mock election page
-	- [ ] page for each party
-	- [ ] list all winners
