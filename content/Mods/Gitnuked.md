@@ -12,7 +12,7 @@ tags:
 > | --- |--- |
 > | #Retired  | #FroundingFather |
 > ### Period of Service
-> | Inducted | Resigned|
+> | Inducted | Retired|
 > | --- |--- |
 > | April 26 2019 | November 26th 2023 |
 >  ### Aliases 

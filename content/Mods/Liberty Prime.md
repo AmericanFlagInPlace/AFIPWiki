@@ -12,7 +12,7 @@ tags:
 > | --- |--- |
 > | #Retired  | #FroundingFather  |
 > ### Period of Service
-> | Inducted | retired|
+> | Inducted | Retired|
 > | --- |--- |
 > | April 1, 2017 |  |
 >  ### Aliases 

@@ -27,8 +27,6 @@ tags:
 # About
 n/a
 
-# History
-GoPurple became a moderator on February 21, 2024, at the rank of Secret Service of the Pixel Patriots. Took part in improving server events with such ideas as March Madness streams in March 2024.
 
 ---
 

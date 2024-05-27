@@ -26,9 +26,6 @@ tags: []
 # About
 WIP (Add to me!)
 
-# History
-WIP (Add to me!)
-
 ---
 #  USERNAME Mod Service Record
 

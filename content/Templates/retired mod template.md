@@ -12,7 +12,7 @@ tags: []
 > | --- |--- |
 > | #Retired  | # role |
 > ### Period of Service
-> | Inducted | retired|
+> | Inducted | Retired|
 > | --- |--- |
 > | February 31 1700 |February 31 1700|
 >  ### Aliases 
@@ -28,6 +28,10 @@ WIP (Add to me!)
 
 # History
 WIP (Add to me!)
+
+>[!QUOTE] Retirement announcement
+>Long before time had a name
+---
 
 ---
 #  USERNAME Mod Service Record
