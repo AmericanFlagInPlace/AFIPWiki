@@ -33,3 +33,8 @@
 		- [ ] page for each party
 		- [ ] list all winners
 
+
+
+# Guides
+- [ ] Place overlay
+- [ ] pixelcanvas overlay
