@@ -35,6 +35,14 @@ export type Analytics =
       provider: "tinylytics"
       siteId: string
     }
+  | {
+      provider: "cabin"
+      host?: string
+    }
+  | {
+      provider: "clarity"
+      projectId?: string
+    }
 
 export interface GlobalConfiguration {
   pageTitle: string

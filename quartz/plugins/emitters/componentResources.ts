@@ -181,14 +181,6 @@ function addGlobalPageResources(ctx: BuildCtx, componentResources: ComponentReso
       })(window, document, "clarity", "script", "${cfg.analytics.projectId}");\`
       document.head.appendChild(clarityScript)
     `)
-  } else if (cfg.analytics?.provider === "tinylytics") {
-    const siteId = cfg.analytics.siteId
-    componentResources.afterDOMLoaded.push(`
-      const tinylyticsScript = document.createElement("script")
-      tinylyticsScript.src = "https://tinylytics.app/embed/${siteId}.js"
-      tinylyticsScript.defer = true
-      document.head.appendChild(tinylyticsScript)
-    `)
   }
 
   if (cfg.enableSPA) {
