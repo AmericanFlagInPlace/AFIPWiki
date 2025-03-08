@@ -21,7 +21,7 @@ Navigate to [r/place](https://www.reddit.com/r/place)
 ---
 
 # Step 4
-Click on the Settings button (![[SettingsIconOverlay.webp]]) in the top left.
+Click on the Settings button in the top left. ![[SettingsIconOverlay.webp]]
 
 Copy the AFIP template link: `https://afip.us/place/overlay` into the "Template URL" field then click the "Always load" button
 
